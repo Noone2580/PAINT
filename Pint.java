@@ -24,9 +24,9 @@ public class Pint extends Application {
 
     //Colors!!!!
     private Color UiColor = Color.LIGHTGRAY;
-    private Color backgroundColor = Color.RED;//WHITE
+    private Color backgroundColor = Color.WHITE;//WHITE
     
-    private Color Ccircle = Color.BLUE;
+    private Color Ccircle = Color.BLACK;
     private Color Cstorke = Color.BLACK;
 
     // TODO: Instance Variables for View Components and Model
