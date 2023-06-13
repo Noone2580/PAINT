@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GeometricObject
+comment0.text=\r\n\ Abstract\ class\ Geomactobject\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=gc
+comment1.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment2.params=x
+comment2.target=void\ setX(double)
+comment3.params=y
+comment3.target=void\ setY(double)
+numComments=4
