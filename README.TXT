@@ -10,6 +10,15 @@
     
 ------------------------------------------------------------------------
 
+
+=========================================================================
+
+UPDATE: 1.0
+Chagning the color is now possable.
+You can change the color of the backGround, UI, And circle in the Pint class.
+
+=========================================================================
+
 Just an Pinting app I made
 
 Pint class is waht runs the program
